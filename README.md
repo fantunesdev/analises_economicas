@@ -1,6 +1,6 @@
 # Análises macroeconômicas
 
-Análises meconômicas para uso pessoal. 
+Análises econômicas para uso pessoal. 
 
 &nbsp;
 
